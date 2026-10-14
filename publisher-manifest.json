@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "944d2e091e355904d43fadce",
+  "owner": "wtpbihbpe",
+  "repo": "page-189fabc04e05bc74886edcfc",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "189fabc04e05bc74886edcfc",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d33207a2579836910156bbf6253f801dfe655e441f1ef2b3ed16ae56f914b779",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id提供优质VPN加速服务，稳定节点池，快速连接全球。官网下载客户端，订阅机场线路，支持多种流量套餐。配置简单易用，享受高速网络体验。",
+          "AI_DESCRIPTION": "小火箭id提供优质VPN加速服务，稳定节点池，快速连接全球。官网下载客户端，订阅机场线路，支持多种流量套餐。配置简单易用，享受高速网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n\n    <main>\n        <header>\n            <h1>小火箭id</h1>\n            <p>稳定VPN加速器 | 机场订阅 | 客户端下载</p>\n        </header>\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭id是一款专注提供稳定VPN加速服务的品牌，致力于为用户带来高速、可靠的网络连接体验。无论您是日常上网、游戏玩家还是需要解锁流媒体的用户，小火箭id都能为您提供优质的解决方案。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <ul>\n                <li>• 游戏加速：优化网络延迟，提升在线游戏体验</li>\n                <li>• 流媒体解锁：轻松观看Netflix、Disney+等平台内容</li>\n                <li>• 日常办公：稳定连接，保障远程工作顺畅</li>\n                <li>• 隐私保护：加密连接，保护个人数据安全</li>\n            </ul>\n        </section>\n        <section>\n            <h2>配置流程</h2>\n            <h3>步骤1：访问官网下载客户端</h3>\n            <p>登录 <a href=\"#download\">官网</a>，下载适用于Windows、Mac、Android、iOS的客户端。</p>\n            <h3>步骤2：注册账号并订阅套餐</h3>\n            <p>使用邮箱注册，支付对应金额，选择基础版、旗舰版或团队版。</p>\n            <h3>步骤3：导入配置信息</h3>\n            <p>在客户端配置页面输入您的订阅链接，完成节点设置。</p>\n            <h3>步骤4：连接加速</h3>\n            <p>选择节点，一键连接，享受极速网络。</p>\n            <h3>步骤5：优化设置</h3>\n            <p>根据需要调整DNS或启用杀手开关，提升安全性。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>流量套餐</h2>\n            <div>\n                <div>\n                    <h3>基础版</h3>\n                    <p>¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div>\n                    <div>推荐</div>\n                    <h3>旗舰版</h3>\n                    <p>¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div>\n                    <h3>团队版</h3>\n                    <p>¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>立即下载小火箭id官方客户端，开始您的加速之旅。支持多平台，简单易用。</p>\n            <p>\n                <a href=\"#plans\">立即查看套餐并下载</a>\n            </p>\n            <p>或访问 <a href=\"#plans\">官网</a> 获取更多信息</p>\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>小火箭id是什么类型的VPN加速器？</summary>\n                <p>小火箭id是一款稳定可靠的VPN加速器，提供高速节点和机场订阅服务，帮助用户解锁网络限制，保障上网安全和速度。</p>\n            </details>\n            <details>\n                <summary>如何订阅小火箭id？</summary>\n                <p>访问官网，选择套餐后进行支付，订阅成功后获取订阅链接或节点信息。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台设备，旗舰版支持5台，团队版支持20台，同时在线使用。</p>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <p>登录官网，选择平台下载对应版本的客户端，无需注册即可获取。</p>\n            </details>\n            <details>\n                <summary>如何获取加速节点？</summary>\n                <p>订阅后，在客户端配置页面输入您的订阅链接，选择节点即可连接。不同套餐有不同节点池。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "43face8c1cd89961c8012106a0e2512073591e36069ed535b09c95a3a8253ba4",
+          "seo": {
+            "title": "小火箭id | 稳定VPN加速器 机场订阅 客户端下载 官网",
+            "keywords": "小火箭id,vpn,机场,加速器,客户端下载,官网,订阅",
+            "description": "小火箭id提供优质VPN加速服务，稳定节点池，快速连接全球。官网下载客户端，订阅机场线路，支持多种流量套餐。配置简单易用，享受高速网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8s6400.cn",
+    "host": "p-7131c6d557.8s6400.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "994dd9f06b06060857104518b48efd25408147170bf9d79eec1175cfcd2f2f4e",
+    "sitemap.xml": "b72ec16151a7c327c4f835c8792f84ca9bc68aa46ea7d5b5d996e6515c671a19",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "09b34c9ba5b8994761895e4e76d0d00223b487c77d167d62c71f42aa6e6ec3e4",
+    "robots.txt": "246378124bd73b14f96fb12608ae626819eef4330a4c0636e0f4989cbbebba48",
+    "b4cfe2a8ccd88e845e0448e045d1017f.txt": "2cfe2c9cfa428a38f05802aea938fdc2058e509328287c01194a44496f21dbdb"
+  },
+  "revision": "59f809af2c05b3f9f6e3b02eeb4d4890812589ca621f1b330eab9cf61e8b34c5"
+}
